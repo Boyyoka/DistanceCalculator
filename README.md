@@ -7,7 +7,8 @@ A REST service that calculates the distance between airports in miles by using t
 You can run the service locally and test the API by requesting the following endpoint: `/api/distance/calculate`.
 
 ### Remote usage
-The service has been deployed and can be requested here: `boyyoka-public.azurewebsites.net/api/distance/calculate`.
+The service has been deployed and can be requested here: 
+`boyyoka-public.azurewebsites.net/api/distance/calculate`.
 
 #### Request body
 Your request body should look as follows: 
